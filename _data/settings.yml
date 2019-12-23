@@ -1,37 +1,33 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Horee
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Horee is a coding community based in Serpong, Indonesia
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Horee 
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, We are <strong>Horee</strong>
+  bio: A coding community based in <strong>Serpong</strong>, <strong>Indonesia</strong>. We <strong>share</strong>, <strong>learn</strong>, <strong>collaborate</strong> to build hardware and software using various technologies. As our founder's <a href="#">vision</a> is to make everyone code, we give our members free coding class every Saturday at various places in Serpong, so if you would like to join, just drop us message at our Instagram.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+instagram: https://instagram.com/horee.official/ # Add your Instagram handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: horee.official # Add instagram username
 
 
 #-------------------------------
