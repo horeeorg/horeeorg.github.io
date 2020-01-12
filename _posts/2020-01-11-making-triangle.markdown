@@ -28,7 +28,7 @@ for(int lineCount=0; lineCount < inputNumber; lineCount++) {
 ...
 {% endhighlight %}
 
-If you want further information, just read the code [here][final-result] and click [this][dart-docs] for dart language references, and if you'd like to join, just drop to our Instagram.
+If you want further information, just read the code [here][final-result] and click [this][dart-docs] for dart language references, and if you'd like to join, just drop a direct message to our Instagram.
 
 [dart-docs]: https://dart.dev/guides/language/language-tour
 [final-result]: https://github.com/horeeorg/demo/blob/master/bintangsegitiga.dart
