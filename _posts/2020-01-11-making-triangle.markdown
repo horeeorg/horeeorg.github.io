@@ -11,15 +11,14 @@ And we also do live coding using #dart language to create triangle like above. T
 
 {% highlight dart %}
 ...
-int h = 0;
-for(int i=0; i < inputNumber; i++) {
+int helper = 0;
+for(int lineCount=0; lineCount < inputNumber; lineCount++) {
   
-  for(int k=0; k < inputNumber - i; k++) {
+  for(int spaceCount=0; spaceCount < inputNumber - lineCount; spaceCount++) {
     stdout.write(' ');
   }
 
-  h++;
-  for(int j=0;j < h + i;j++){
+  for(int startCount=0; starCount < ++helper + lineCount; starCount++){
     stdout.write('*');
   }
   
