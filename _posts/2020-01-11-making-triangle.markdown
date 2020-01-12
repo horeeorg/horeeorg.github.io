@@ -18,7 +18,8 @@ for(int lineCount=0; lineCount < inputNumber; lineCount++) {
     stdout.write(' ');
   }
 
-  for(int startCount=0; starCount < ++helper + lineCount; starCount++){
+  helper++;
+  for(int startCount=0; starCount < helper + lineCount; starCount++){
     stdout.write('*');
   }
   
