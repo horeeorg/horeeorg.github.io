@@ -28,7 +28,7 @@ for(int i=0; i < inputNumber; i++) {
 ...
 {% endhighlight %}
 
-If you want further information, just read the code, and if you'd like to join, just drop to our Instagram.
+If you want further information, just read the code [here][final-result] and click [this][dart-docs] for dart language references, and if you'd like to join, just drop to our Instagram.
 
-[dart-docs]: https://dart.dev/guides
-[final-result]: https://github.com/horeeorg/demo/bintangsegitiga.dart
+[dart-docs]: https://dart.dev/guides/language/language-tour
+[final-result]: https://github.com/horeeorg/demo/blob/master/bintangsegitiga.dart
