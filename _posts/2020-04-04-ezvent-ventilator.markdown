@@ -38,7 +38,9 @@ Hasil akhir prototipe ezvent
 
 Gaes.. kemarin kami mendapat bimbingan teknis oleh BPFK Jakarta dibawah Kementerian Kesehatan RI,
 dan kami mendapat banyak masukan, untuk pengembangan lebih lanjut dari ventilator ini. 
-Kami akui sebelum pertemuan ini, sulit sekali untuk menemukan artikel ataupun web tentang spesifikasi dan poin-poin acuan BPFK dalam melakukan uji coba / kelayakan sebuah ventilator. Tetapi setelah pertemuan tersebut kami mendapatkan beberapa dokumen yang menjadi acuan penguian oleh BPFK. Kalian bisa download disini.
+
+Kami akui sebelum pertemuan ini, sulit sekali untuk menemukan artikel ataupun web tentang spesifikasi dan poin-poin acuan BPFK dalam melakukan uji coba / kelayakan sebuah ventilator. Tetapi setelah pertemuan tersebut kami mendapatkan beberapa dokumen yang menjadi acuan pengujian oleh BPFK. Kalian bisa download disini.
+
 (Perlu diingat poin acuan ini hanya berlaku selama masa pandemi Covid-19 ini saja)
 
 Dokumennya bisa di download dibawah ini ya gaess..
@@ -51,7 +53,11 @@ Dokumennya bisa di download dibawah ini ya gaess..
 * [Lembar Kerja Pengujian CPAP / PEEP][LEMBAR_KERJA_UJI_PRODUK_CPAP_PEEP.doc]
 * [Pengujian Ventilator model Ambu Bag / Resuscitator][Emergency_use_resuscitator_systems_(EURS). AAMI. April_2020.pdf]
 
-Tunggu... updadate dari blog ini gaes... perjuangan masih belum berakhir.... (to be continued)
+### Tips
+Saat ini mereka hanya punya acuan untuk pengujian jika masuk kategori CPAP, Ventilator, Resuscitator.
+Tetapi tidak untuk mode lain, seperti ventilator yang kami kembangkan, PCV dan PSV.
+
+Tunggu... update dari blog ini gaes... perjuangan masih belum berakhir.... (to be continued)
 
 
 
